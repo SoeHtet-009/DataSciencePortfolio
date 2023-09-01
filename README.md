@@ -11,11 +11,8 @@ Repository showcasing a range of data science projects completed for academic, s
 - **Network Analytics**: networkx, mlxtend
 
 ## Projects
-#### Tweets Topic Modeling 
-- Employed a pre-trained BERT model to perform in-depth topic modeling on a large collection of tweets, extracting valuable insights from the unstructured data.
-
-#### Recommendation Engine Using NetworkX
-- Network graph based recommendation system from a network of Twitter users with shared interests, facilitating friend recommendations based on the strength of connections within the network.
+#### Tweets Topic Modeling + Recommendation Engine Using NetworkX
+- Utilized a pre-trained BERT model to conduct topic modeling on a vast repository of tweets, enabling the extraction of users' topic interests from unstructured data. Following the topic modeling phase, a network graph-based recommendation system was developed using Twitter user networks characterized by shared interests. This system facilitates friend recommendations and topic recommendations to twitter users prioritizing connections based on the strength of their ties within the network.
 
 #### Hotel Cancellation Prediction
 - Designed and implemented machine learning models capable of predicting hotel booking cancellations, enabling optimized room allocation and precise management of overbooking percentages.
