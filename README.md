@@ -23,5 +23,5 @@ Repository showcasing a range of data science projects completed for academic, s
 #### NLP Sentiment Analysis
 - Conducted a comprehensive NLP analysis of online shopping reviews, identifying common themes within positive and negative feedback. Additionally, developed a sentiment analysis model to quantify sentiment in the reviews.
 
-#### Exploratory Data Analysis 
+#### Premier League Data Analysis 
 - Simple data visualizations related to the performance of teams in the English Premier League, providing insights into championship victories and relegations over time.
